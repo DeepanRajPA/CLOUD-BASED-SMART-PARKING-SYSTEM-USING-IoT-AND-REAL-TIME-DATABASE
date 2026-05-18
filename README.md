@@ -1,17 +1,5 @@
 # Cloud-Based Smart Parking System Using IoT and Real-Time Database
 
-## Table of Contents
-1. [Problem Statement](#problem-statement)
-2. [Solution Overview](#solution-overview)
-3. [Network Architecture & Protocol Stack](#network-architecture--protocol-stack)
-4. [Project Scope and Limitations](#project-scope-and-limitations)
-5. [System Components](#system-components)
-6. [Getting Started](#getting-started)
-7. [Technical Details](#technical-details)
-
----
-
-## Problem Statement
 
 Conventional parking management systems suffer from four fundamental deficiencies:
 
